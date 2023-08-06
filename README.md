@@ -1,13 +1,5 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+# OrionToken
+This repository contains the Solidity smart contracts and deployment details for an ERC-20 token on the Ethereum blockchain. The token adheres to the ERC-20 standard, ensuring compatibility with various Ethereum platforms and wallets.
+The contract has been deployed on Rinkeby test net feel free to test it.
+# 0x81a55dCC9Fc06B8e8dA476a121123c61923169d5
+A faucet for the oriontoken will soon be available.
